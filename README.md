@@ -1,6 +1,6 @@
 # Cache video production portfolio 2025
 
-add bio when i feel like it
+add bio eventually
 
 ## projects term 3
 
